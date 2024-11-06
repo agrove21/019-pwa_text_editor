@@ -12,7 +12,7 @@ I built a text editor that runs in the browser. The app is a single-page applica
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Deployed Website](#deployed-website)
-- [Screenshoots](#screenshots)
+- [Screenshots](#screenshots)
 - [Questions](#questions)
 
 ## Installation
@@ -31,26 +31,17 @@ Welcome to Contribute! Fork the repository, create a new branch, and submit a pu
 n/a
 
 ## Deployed Website
-<!-- https://zero14-mvc-tech-blog.onrender.com/ -->
+https://zero19-pwa-text-editor.onrender.com/
 
 ## Screenshots
-<!-- ### Login or Sign Up
-<img src="develop/images/login_signup.png" width="800px">
+### JATE
+<img src="assets/images/jate.png" width="800px"> -->
 
-### Home
-<img src="develop/images/home.png" width="800px">
+### Install app
+<img src="assets/images/jate2.png" width="800px">
 
-### Dashboard
-<img src="develop/images/dashboard.png" width="800px">
-
-### New Post
-<img src="develop/images/new post.png" width="800px">
-
-### Add Comment
-<img src="develop/images/comments.png" width="800px">
-
-### File Structure
-<img src="develop/images/file structure.png" width="800px"> -->
+### Downloaded to PC
+<img src="assets/images/jate installed.png" width="800px">
 
 ## Questions
 If you have any questions, you can reach me at [annhargrove21@gmail.com](mailto:annhargrove21@gmail.com). You can also find more of my work at [agrove21](https://github.com/agrove21).
